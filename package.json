@@ -1,6 +1,6 @@
 {
   "name": "liquidx-base",
-  "version": "0.1.0",
+  "version": "0.1.20210612",
   "description": "Common styles and templates for liquidx projects.",
   "main": "index.js",
   "author": "Alastair Tse <alastair@liquidx.net>",
